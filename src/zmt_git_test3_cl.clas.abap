@@ -19,5 +19,4 @@ CLASS zmt_git_test3_cl IMPLEMENTATION.
     out->write( 'test commit 30.03.2023' ).
   ENDMETHOD.
 
-
 ENDCLASS.
