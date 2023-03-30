@@ -11,5 +11,5 @@ ENDCLASS.
 
 
 CLASS zmt_git_test3_cl IMPLEMENTATION.
-"Yasin test
+"Yasin test 123
 ENDCLASS.
